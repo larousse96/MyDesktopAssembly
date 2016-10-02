@@ -8,6 +8,7 @@
 5. If you have a bigger or a smaller resolution than 2304×1440, you'll probably need to 
    adjust the position of the widgets
 6. You’re done!
+
 PS: All the text has been changed to English
 
 <img width="640" alt="screenshot" src="https://cloud.githubusercontent.com/assets/22483186/19019997/356bbb50-889c-11e6-87cb-ed7feeb9fef1.png">

@@ -9,4 +9,5 @@
    adjust the position of the widgets
 6. You’re done!
 
-<img width="1280" alt="screenshot" src="https://cloud.githubusercontent.com/assets/22483186/19020094/f08dfd4c-889e-11e6-9aad-b72cf214cd4c.png">
+<img width="1280" alt="screenshot" src="https://cloud.githubusercontent.com/assets/22483186/19020631/c9a4cbce-88ae-11e6-87ad-f1f4a934bd19.png">
+

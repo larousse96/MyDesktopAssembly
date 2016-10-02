@@ -11,4 +11,4 @@
 
 PS: All the text has been changed to English
 
-<img width="640" alt="screenshot" src="https://cloud.githubusercontent.com/assets/22483186/19019997/356bbb50-889c-11e6-87cb-ed7feeb9fef1.png">
+<img width="1280" alt="screenshot" src="https://cloud.githubusercontent.com/assets/22483186/19020094/f08dfd4c-889e-11e6-9aad-b72cf214cd4c.png">

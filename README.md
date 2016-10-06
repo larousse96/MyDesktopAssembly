@@ -8,6 +8,7 @@
 5. If you have a bigger or a smaller resolution than 2304×1440, you'll probably need to 
    adjust the position of the widgets
 6. You’re done!
+7. Website:http://tracesof.net/uebersicht/
 
 <img width="1280" alt="screenshot" src="https://cloud.githubusercontent.com/assets/22483186/19020631/c9a4cbce-88ae-11e6-87ad-f1f4a934bd19.png">
 
